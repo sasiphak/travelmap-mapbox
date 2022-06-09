@@ -1,0 +1,41 @@
+/*import React from "react";
+import {
+  NavigationControl,
+  FullscreenControl,
+  ScaleControl,
+  GeolocateControl
+} from 'react-map-gl';
+
+const geolocateStyle = {
+  top: 0,
+  left: 0,
+  padding: '10px'
+};
+
+const fullscreenControlStyle = {
+  top: 36,
+  left: 0,
+  padding: '10px'
+};
+
+const navStyle = {
+  top: 72,
+  left: 0,
+  padding: '10px'
+};
+
+const scaleControlStyle = {
+  bottom: 36,
+  left: 0,
+  padding: '10px'
+};
+
+  function mapControls() {
+    return 
+    <GeolocateControl style={geolocateStyle} />;
+    <FullscreenControl style={fullscreenControlStyle} />;
+    <NavigationControl style={navStyle} />;
+    <ScaleControl style={scaleControlStyle} />;
+  }
+
+export default mapControls; */
